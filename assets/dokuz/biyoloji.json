@@ -1,0 +1,95 @@
+[
+    {
+      "konuadi":"Biyoloji ve Çözdüğü Sorunlar",
+      "filepath":"Biyoloji ve Çözdüğü Sorunlar"
+    } ,
+    {
+     "konuadi":"Canlıların Ortak Özelikleri",
+     "filepath":"Canlıların Ortak Özellikleri"
+     },
+
+     {
+     "konuadi":"İnorganik ve Organik Bileşenler",
+     "filepath":"İnorganik ve Organik Bileşenler"
+     },
+     
+     {
+      "konuadi":"Karbonhidratlar",
+      "filepath":"Karbonhidratlar"
+      },
+      {
+     "konuadi":"Yağlar (Lipitler)",
+     "filepath":"Yağlar (Lipitler)"
+     },
+     {
+      "konuadi":"Proteinler",
+      "filepath":"Proteinler"
+      },
+      {
+     "konuadi":"Enzimler – Hormonlar – Vitaminler",
+     "filepath":"Enzimler – Hormonlar – Vitaminler"
+     },
+     {
+      "konuadi":"Nükleik asitler – ATP",
+      "filepath":"Nükleik asitler – ATP"
+      },
+    {
+      "konuadi":"Hücre Hücre Zarı ve Madde Alışverişi",
+      "filepath":"Hücre Hücre Zarı ve Madde Alışverişi"
+    },
+
+    {
+      "konuadi":"Hücre Giriş",
+      "filepath":"Hücre Giriş"
+    },
+    {
+     "konuadi":"Maddenin Halleri Giriş",
+     "filepath":"Maddenin Halleri Giriş"
+    },
+    {
+      "konuadi":"Hücre Sitoplazma ve Organeller",
+       "filepath":"Hücre Sitoplazma ve Organeller"
+   },
+
+   {
+    "konuadi":"Hücre Çekirdeği ve Çeşitleri",
+     "filepath":"Hücre Çekirdeği ve Çeşitleri"
+   },
+   {
+    "konuadi":"Hücre Tek Hücreliden Çok Hücreliye",
+     "filepath":"Hücre Tek Hücreliden Çok Hücreliye"
+   },
+   {
+    "konuadi":"Canlıların Sınıflandırılması ve Canlı Çeşitliliği",
+     "filepath":"Canlıların Sınıflandırılması ve Canlı Çeşitliliği"
+   },   
+   {
+    "konuadi":"Bakteriler",
+     "filepath":"Bakteriler"
+   },
+   {
+    "konuadi":"Protistalar Alemi",
+     "filepath":"Protistalar Alemi"
+   },
+   {
+    "konuadi":"Bitkiler Alemi",
+     "filepath":"Bitkiler Alemi"
+   },  
+   {
+    "konuadi":"Mantarlar Alemi",
+     "filepath":"Mantarlar Alemi"
+   },  
+   {
+    "konuadi":"Hayvanlar Alemi Omurgasızlar",
+     "filepath":"Hayvanlar AlemiOmurgasızlar"
+   },  
+   {
+    "konuadi":"Hayvanlar Alemi Kordalılar",
+     "filepath":"Hayvanlar AlemiKordalılar"
+   },
+   {
+    "konuadi":"Virüsler",
+     "filepath":"Virüsler"
+   }
+
+]

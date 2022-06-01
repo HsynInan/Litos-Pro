@@ -1,0 +1,68 @@
+[
+    {
+        "KonuAdi": "Üslü İfadeler",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Köklü İfadeler",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Bilinçli Tüketici Aritmetiği – 1",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Bilinçli Tüketici Aritmetiği – 2",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Veri Analizi",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Ölçme - 1",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Ölçme - 2",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Küre ve Silindir",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/matematik1.png",
+        "jsonadı": "matematik",
+       "sinifadi": "oniki",
+        "testNo":"test8"
+    }
+   
+]

@@ -1,0 +1,56 @@
+[
+    {
+      "konuadi":"Fonksiyonlar",
+      "filepath":"FONKSİYON"
+    },
+    {
+      "konuadi":"Olasılık",
+      "filepath":"OLASILIK"
+    },    {
+      "konuadi":"Polinomlar",
+      "filepath":"Polinomlar"
+    },    {
+      "konuadi":"İkinci Dereceden Denklemler",
+      "filepath":"İkinci Dereceden Denklemler"
+    },    {
+      "konuadi":"Kombinasyon",
+      "filepath":"KOMBİNASYON"
+    },    {
+      "konuadi":"Binom Açılımı",
+      "filepath":"BİNOM AÇILIMI"
+    },    {
+      "konuadi":"Permütasyon",
+      "filepath":"PERMÜTASYON"
+    },    {
+      "konuadi":"Çarpanlarına Ayırma",
+      "filepath":"Çarpanlarına Ayırma"
+    },    {
+      "konuadi":"Çokgenler",
+      "filepath":"Çokgenler"
+    },
+    {
+      "konuadi":"Dörtgenler ve Özellikleri",
+      "filepath":"Dörtgenler ve Özellikleri"
+    },    {
+      "konuadi":"Özel Dörtgenler – Yamuk",
+      "filepath":"Özel Dörtgenler – Yamuk"
+    },    {
+      "konuadi":"Paralelkenar",
+      "filepath":"Paralelkenar"
+    },    {
+      "konuadi":"Özel Dörtgenler – Eşkenar Dörtgen, Dikdörtgen, Kare ve Deltoid",
+      "filepath":"Özel Dörtgenler – Eşkenar Dörtgen, Dikdörtgen, Kare ve Deltoid"
+    },    {
+      "konuadi":"Piramitler",
+      "filepath":"PİRAMİTLER"
+    },    {
+      "konuadi":"Koni",
+      "filepath":"KONİ"
+    },    {
+      "konuadi":"Küre",
+      "filepath":"KÜRE"
+    },    {
+      "konuadi":"Prizmalar",
+      "filepath":"Prizmalar"
+    }
+    ]

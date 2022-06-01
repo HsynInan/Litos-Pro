@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Vektörler",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Bağıl Hareket",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Newton'un Hareket Yasaları - 1",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Newton'un Hareket Yasaları - 2",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Bir Boyutta Sabit İvmeli Hareket",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "İki Boyutta Sabit İvmeli Hareket - 1",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "İki Boyutta Sabit İvmeli Hareket - 2",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Enerji ve Hareket - 1",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Enerji ve Hareket - 2",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "İtme ve Çizgisel Momentum - 1",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "İtme ve Çizgisel Momentum - 2",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Tork ve Denge - 1",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Tork ve Denge - 2",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Elektriksel Kuvvet ve Elektrik Alan",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Elektriksel Potansiyel",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Düzgün Elektrik Alan ve Sığa",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Manyetizma ve Elektromanyetik İndüklenme - 1",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Manyetizma ve Elektromanyetik İndüklenme - 2",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Manyetizma ve Elektromanyetik İndüklenme - 3",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Manyetizma ve Elektromanyetik İndüklenme - 4",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "onbir",
+        "testNo":"test20"
+    }
+]

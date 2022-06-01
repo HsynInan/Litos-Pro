@@ -1,0 +1,51 @@
+[
+    {
+      "konuadi":"Logaritma",
+      "filepath":"LOGARİTMA"
+    },
+    {
+      "konuadi":"Özel Tanımlı Fonksiyonlar",
+      "filepath":"ÖZEL TANIMLI FONKSİYONLAR"
+    },
+    {
+      "konuadi":"Trigonometri",
+      "filepath":"TRİGONOMETRİ"
+    },
+    {
+      "konuadi":"Aritmetik Dizi",
+      "filepath":"ARİTMETİK DİZİ"
+    },
+    {
+      "konuadi":"Modüler Aritmetik",
+      "filepath":"MODÜLER ARİTMETİK"
+    },
+    {
+      "konuadi":"Karmaşık Sayılar",
+      "filepath":"KARMAŞIK SAYILAR"
+    },
+    {
+      "konuadi":"Çember",
+      "filepath":"ÇEMBER"
+    },
+    {
+      "konuadi":"Çemberde Uzunluk",
+      "filepath":"Çemberde Uzunluk"
+    },
+    {
+      "konuadi":"Çemberde Benzerlik",
+      "filepath":"Çemberde Benzerlik"
+    },
+    {
+      "konuadi":"Doğrunun Analitik İncelenmesi",
+      "filepath":"DOĞRUNUN ANALİTİK İNCELENMESİ"
+    },
+    {
+      "konuadi":"Noktanın Analitik İncelemesi",
+      "filepath":"Noktanın Analitik İncelemesi"
+    },
+    {
+      "konuadi":"Çemberin Analitik İncelemesi",
+      "filepath":"Çemberin Analitik İncelemesi"
+    }
+
+]

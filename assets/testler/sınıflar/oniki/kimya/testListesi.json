@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Kimya ve Elektrik - 1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 3",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 4",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 5",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 6",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Kimya ve Elektrik - 7",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Karbon Kimyasına Giriş - 1",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Karbon Kimyasına Giriş - 2",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Karbon Kimyasına Giriş - 3",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Karbon Kimyasına Giriş - 4",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 1",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 2",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 3",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 4",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 5",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 6",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Organik Bileşikler - 7",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Enerji Kaynakları ve Bilimsel Gelişmeler - 1",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Enerji Kaynakları ve Bilimsel Gelişmeler - 1",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "oniki",
+        "testNo":"test20"
+    }
+]

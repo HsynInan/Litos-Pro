@@ -1,0 +1,87 @@
+[
+    {
+      "konuadi":"Mantık",
+      "filepath":"mantıkson"
+    } ,
+
+    {
+     "konuadi":"Kümeler",
+     "filepath":"Kümeler"
+    },
+    {
+     "konuadi":"Kartezyen Çarpımı ve Bağıntı",
+     "filepath":"Kartezyen Çarpımı ve Bağıntı"
+    },
+    {
+      "konuadi":"Temel Kavramlar",
+      "filepath":"TEMEL KAVRAMLAR"
+     },
+     {
+      "konuadi":"Sayı Sistemleri",
+      "filepath":"SAYI SİSTEMLERİ"
+     },
+     {
+      "konuadi":"Bölme-Bölünebilme Kuralları",
+      "filepath":"BÖLME-BÖLÜNEBİLME"
+     },
+     {
+      "konuadi":"Birinci Dereceden Bir Bilinmeyenli Denklemler",
+      "filepath":"BİRİNCİ DERECEDEN BİR BİLİNMEYENLİ DENKLEMLER"
+     },   
+      {
+      "konuadi":"Basit Eşitsizlikler",
+      "filepath":"BASİT EŞİTSİZLİKLER"
+     },
+     {
+      "konuadi":"Sıralama",
+      "filepath":"SIRALAMA"
+     },
+     {
+      "konuadi":"Rasyonel Sayılar",
+      "filepath":"RASYONEL SAYILAR"
+     },   
+     {
+      "konuadi":"Üslü Sayılar",
+      "filepath":"ÜSLÜ SAYILAR"
+     },
+     {
+      "konuadi":"Köklü Sayılar",
+      "filepath":"KÖKLÜ İFADELER"
+     },      
+     {
+      "konuadi":"Mutlak Değer",
+      "filepath":"Mutlak Değer Nedir"
+     },    {
+      "konuadi":"Oran–Orantı",
+      "filepath":"ORAN – ORANTI"
+     },    {
+      "konuadi":"EBOB-EKOK",
+      "filepath":"Ebob-Ekok"
+     },
+     {
+      "konuadi":"Problemler",
+      "filepath":"PROBLEMLER"
+     },
+     {
+      "konuadi":"Paralel İki Doğru ile Açı İlişkisi",
+      "filepath":"Paralel İki Doğru ile Açı İlişkisi"
+     },     {
+      "konuadi":"Üçgenlerde Temel Kavramlar",
+      "filepath":"Üçgenlerde Temel Kavramlar"
+     },     {
+      "konuadi":"Üçgenlerde Eşlik ve Benzerlik",
+      "filepath":"Üçgenlerde Eşlik ve Benzerlik"
+     },     {
+      "konuadi":"Üçgenin Yardımcı Elemanları Açıortay",
+      "filepath":"Üçgenin Yardımcı Elemanları Açıortay"
+     },     {
+      "konuadi":"Üçgenin Yardımcı Elemanları Kenarortay, Orta Dikme ve Yükseklik",
+      "filepath":"Üçgenin Yardımcı Elemanları Kenarortay, Orta Dikme ve Yükseklik"
+     },     {
+      "konuadi":"Üçgenin Alanı",
+      "filepath":"Üçgenin Alanı"
+     },     {
+      "konuadi":"Dik Üçgende Trigonometri",
+      "filepath":"Dik Üçgende Trigonometri"
+     }
+    ]

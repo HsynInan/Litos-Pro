@@ -1,0 +1,172 @@
+name: onikincisinif12_soruvedersnotlari
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.4+5
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  admob_flutter: ^1.0.1
+  firebase_admob: null
+  firebase_messaging: ^10.0.4
+  flutter_native_admob: ^2.1.0+3
+  flutter_share: ^1.0.2+1
+  get_it: any
+  google_fonts: ^2.1.0
+  html: ^0.14.0+3
+  modal_progress_hud: ^0.1.3
+  provider: ^4.0.4
+  share: ^0.6.1+1
+  url_launcher: ^5.0.3
+  webview_flutter: ^0.3.20+2
+  animated_bottom_navigation_bar: ^0.3.2
+  timer_builder: ^2.0.0
+  rflutter_alert: ^1.1.0
+  flutter_painter: ^0.1.0
+  permission_handler: any
+  animated_floatactionbuttons: ^0.1.0
+  image_gallery_saver: ^1.7.1
+  firebase_core: ^1.4.0
+  cached_network_image: ^3.1.0
+  connectivity: ^3.0.6
+  flutter_offline: any
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/dersicon/
+    - assets/dersiconları/
+    - assets/dokuz/
+    - assets/htmller/
+    - assets/on/
+    - assets/htmller10/
+    - assets/onbir/
+    - assets/htmller11/
+    - assets/oniki/
+    - assets/htmller12/
+    - assets/testler/
+    # - assets/soruresimleri/
+    # - assets/soruresimleri/oniki/
+    # - assets/soruresimleri/dokuz/
+    - assets/testler/sınıflar/
+    - assets/testler/sınıflar/dokuz/
+    - assets/testler/sınıflar/dokuz/biyoloji/
+    - assets/testler/sınıflar/dokuz/cografya/
+    - assets/testler/sınıflar/dokuz/din/
+    - assets/testler/sınıflar/dokuz/edebiyat/
+    - assets/testler/sınıflar/dokuz/fizik/
+    - assets/testler/sınıflar/dokuz/ingilizce/
+    - assets/testler/sınıflar/dokuz/kimya/
+    - assets/testler/sınıflar/dokuz/matematik/
+    - assets/testler/sınıflar/dokuz/tarih/
+    # - assets/soruresimleri/on/
+    - assets/testler/sınıflar/
+    - assets/testler/sınıflar/on/
+    - assets/testler/sınıflar/on/biyoloji/
+    - assets/testler/sınıflar/on/cografya/
+    - assets/testler/sınıflar/on/din/
+    - assets/testler/sınıflar/on/felsefe/
+    - assets/testler/sınıflar/on/edebiyat/
+    - assets/testler/sınıflar/on/fizik/
+    - assets/testler/sınıflar/on/ingilizce/
+    - assets/testler/sınıflar/on/kimya/
+    - assets/testler/sınıflar/on/matematik/
+    - assets/testler/sınıflar/on/tarih/
+    - assets/testler/sınıflar/
+    # - assets/soruresimleri/onbir/
+    - assets/testler/sınıflar/
+    - assets/testler/sınıflar/onbir/
+    - assets/testler/sınıflar/onbir/biyoloji/
+    - assets/testler/sınıflar/onbir/cografya/
+    - assets/testler/sınıflar/onbir/din/
+    - assets/testler/sınıflar/onbir/felsefe/
+    - assets/testler/sınıflar/onbir/edebiyat/
+    - assets/testler/sınıflar/onbir/psikoloji/
+    - assets/testler/sınıflar/onbir/sosyoloji/
+    - assets/testler/sınıflar/onbir/fizik/
+    - assets/testler/sınıflar/onbir/ingilizce/
+    - assets/testler/sınıflar/onbir/kimya/
+    - assets/testler/sınıflar/onbir/matematik/
+    - assets/testler/sınıflar/onbir/matematik2/
+    - assets/testler/sınıflar/onbir/tarih/
+    - assets/testler/sınıflar/oniki/
+    - assets/testler/sınıflar/oniki/biyoloji/
+    - assets/testler/sınıflar/oniki/cografya/
+    - assets/testler/sınıflar/oniki/din/
+    - assets/testler/sınıflar/oniki/edebiyat/
+    - assets/testler/sınıflar/oniki/fizik/
+    - assets/testler/sınıflar/oniki/ingilizce/
+    - assets/testler/sınıflar/oniki/kimya/
+    - assets/testler/sınıflar/oniki/mantık/
+    - assets/testler/sınıflar/oniki/matematik/
+    - assets/testler/sınıflar/oniki/matematik2/
+    - assets/testler/sınıflar/oniki/tarih/
+  #   - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/LatoBlack.ttf
+        - asset: fonts/LatoBold.ttf
+        - asset: fonts/LatoLight.ttf
+        - asset: fonts/LatoRegular.ttf
+    - family: Raleway
+      fonts:
+        - asset: fonts/Raleway-Black.ttf
+        - asset: fonts/Raleway-Medium.ttf
+        - asset: fonts/Raleway-MediumItalic.ttf
+        - asset: fonts/Raleway-MediumItalic.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages

@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Doğa ve İnsan Etkileşimi",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Dünyanın Şekli ve Sonuçları",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Dünya’nın Günlük Hareketi ve Sonuçları",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Dünya’nın Yıllık Hareketi ve Sonuçları",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Koordinat Sistemi - Mutlak ve Göreceli Konum",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Türkiye’nin Konumu",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Harita Bilgisi - I",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Harita Bilgisi - II",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "İzohipsler",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Atmosfer, Hava Durumu ve İklim",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Sıcaklık",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Basınç ve Rüzgârlar",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Nem ve Yağış",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Büyük İklim Tipleri",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Türkiye’nin İklimini Etkileyen Faktörler ve İklim Elemanları",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Türkiye’de Görülen İklim Tipleri",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Yerleşmelerin Gelişimi, Yerleşme Doku ve Tipleri",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Türkiye’de Yerleşmelerin Gelişimi ve Fonksiyonel Özellikleri",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Dünya’nın Bölgeleri",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "İnsanların Doğal Çevreyi Kullanma Biçimleri",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "dokuz",
+        "testNo":"test20"
+    }
+]

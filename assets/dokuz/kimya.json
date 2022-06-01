@@ -1,0 +1,75 @@
+[
+    {
+      "konuadi":"Bilim Olarak Kimya Giriş",
+      "filepath":"Bilim Olarak Kimya Giriş"
+    } ,
+
+    {
+     "konuadi":"Bilim Olarak Kimya Elementler ve Bileşikler",
+     "filepath":"Bilim Olarak Kimya Elementler ve Bileşikler"
+     },
+
+     {
+     "konuadi":"Atom Kavramı ve Kimyanın Temel Kanunları",
+     "filepath":"Atom Kavramı ve Kimyanın Temel Kanunları"
+     },
+     
+     {
+      "konuadi":"Atom ve Periyodik Sistem Modelleme ve Bohr Atom Modeli",
+      "filepath":"Atom ve Periyodik Sistem Modelleme ve Bohr Atom Modeli"
+      },
+      {
+     "konuadi":"Periyodik Sistem – Tarihçe ve Özellikler",
+     "filepath":"Periyodik Sistem – Tarihçe ve Özellikler"
+     },
+     {
+      "konuadi":"Periyodik Sistem – Periyodik Özellikler",
+      "filepath":"Periyodik Sistem – Periyodik Özellikler"
+      },
+      {
+     "konuadi":"Kimyasal Etkileşimler Giriş ve Etkileşimlerin Sınıflandırılması",
+     "filepath":"Kimyasal Etkileşimler Giriş ve Etkileşimlerin Sınıflandırılması"
+     },
+     {
+      "konuadi":"Kimyasal Etkileşimler Güçlü Etkileşimler",
+      "filepath":"Kimyasal Etkileşimler Güçlü Etkileşimler"
+      },
+
+    {
+      "konuadi":"Kimyasal Etkileşimler Zayıf Etkileşimler",
+      "filepath":"Kimyasal Etkileşimler Zayıf Etkileşimler"
+    },
+
+    {
+      "konuadi":"Kimyasal Etkileşimler Fiziksel ve Kimyasal Değişimler",
+      "filepath":"Kimyasal Etkileşimler Fiziksel ve Kimyasal Değişimler"
+    },
+    {
+     "konuadi":"Maddenin Halleri Giriş",
+     "filepath":"Maddenin Halleri Giriş"
+       },
+    {
+      "konuadi":"Gazların Tanımlayıcı Özellikleri",
+       "filepath":"Gazların Tanımlayıcı Özellikleri"
+   },
+
+   {
+    "konuadi":"Gaz Yasaları ve İdeal Gaz Denklemi",
+     "filepath":"Gaz Yasaları ve İdeal Gaz Denklemi"
+   },
+   {
+    "konuadi":"Sıvılar (Buhar Basıncı – Viskozite – Yüzey Gerilimi)",
+     "filepath":"Sıvılar (Buhar Basıncı – Viskozite – Yüzey Gerilimi)"
+   },
+   {
+    "konuadi":"Hal Değişimi",
+     "filepath":"Hal Değişimi"
+   },   {
+    "konuadi":"Katı Türleri",
+     "filepath":"Katı Türleri"
+   }
+
+
+
+
+]

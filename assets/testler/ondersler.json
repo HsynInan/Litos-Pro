@@ -1,0 +1,73 @@
+[
+    {
+        "dersadi": "Türk Dili ve Edebiyatı",
+        "dersadiResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+        "testListesiYolu": "on"
+    },
+    {
+        "dersadi": "Matematik",
+        "dersadiResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik",
+        "testListesiYolu": "on"
+
+    },
+
+    {
+        "dersadi": "Fizik",
+        "dersadiResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+        "testListesiYolu": "on"
+
+    },
+    {
+        "dersadi": "Kimya",
+        "dersadiResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+        "testListesiYolu": "on"
+
+    },
+    {
+        "dersadi": "Biyoloji",
+        "dersadiResim": "assets/dersiconları/bio.png",
+        "jsonadı": "biyoloji",
+        "testListesiYolu": "on"
+
+    },
+
+    {
+        "dersadi": "Tarih",
+        "dersadiResim": "assets/dersiconları/inkilap3.png",
+        "jsonadı": "tarih",
+        "testListesiYolu": "on"
+
+    },
+    {
+        "dersadi": "Coğrafya",
+        "dersadiResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+        "testListesiYolu": "on"
+
+    },
+
+    {
+        "dersadi": "İngilizce",
+        "dersadiResim": "assets/dersiconları/ing1.png",
+        "jsonadı": "cografya",
+        "testListesiYolu": "on"
+
+    },    {
+        "dersadi": "Felsefe",
+        "dersadiResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+        "testListesiYolu": "on"
+
+    },
+    {
+        "dersadi": "Din Kültürü ve Ahlak Bilgisi",
+        "dersadiResim": "assets/dersiconları/din1.png",
+        "jsonadı": "ingilizce",
+        "testListesiYolu": "on"
+
+    }
+]

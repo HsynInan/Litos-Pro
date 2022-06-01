@@ -1,0 +1,192 @@
+[
+    {
+        "KonuAdi": "İletişim ve dil",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Edebiyatın Bilimle ve Güzel Sanatlarla İlişkisi - Metinlerin Sınıflandırılması",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "(Hikâye - Tarihî Gelişim-Tür Özellikleri-Olay ve Durum Hikâyesi-Gelenek ve Gerçeklik)",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "(Hikâye - Tema - Konu - Çatışma - Dil ve Anlatım - Yapı)",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Yazım Kuralları",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Noktalama İşaretleri",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "İsim",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Şiir (Ahenk Unsurları)",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Şiir (Ahenk Unsurları)2",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Şiir (İçerik - Gelenek ve Gerçeklik) - 1",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Şiir (İçerik - Gelenek ve Gerçeklik) - 2",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Sıfatlar",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Masal-Fabl",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Edat - Bağlaç - Ünlem",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "(Roman -Tarihî Gelişim - Özellikler - Türler - Gelenek ve Gerçeklik)",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Roman (Tema - Konu - Çatışma - Dil ve Anlatım - Yapı - 1",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Roman (Tema - Konu - Çatışma - Dil ve Anlatım - Yapı - 2",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Zamir",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Tiyatro - 1",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Tiyatro - 2",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test20"
+    },
+    {
+        "KonuAdi": "Zarf",
+        "TestNo": "Test-21",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test21"
+    }, {
+        "KonuAdi": "Biyografi - Otobiyografi, Mektup - E – posta, Günlük - Blog",
+        "TestNo": "Test-22",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test22"
+    }, {
+        "KonuAdi": "Fiil - 1",
+        "TestNo": "Test-23",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test23"
+    }, {
+        "KonuAdi": "Fiil - 2",
+        "TestNo": "Test-24",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "dokuz",
+        "testNo":"test24"
+    }
+]

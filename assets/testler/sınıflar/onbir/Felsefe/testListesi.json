@@ -1,0 +1,132 @@
+[
+    {
+        "KonuAdi": "MÖ 6. Yüzyıl - MS 2. Yüzyıl Felsefesi - 1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "MÖ 6. Yüzyıl - MS 2. Yüzyıl Felsefesi - 2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "MÖ 6. Yüzyıl - MS 2. Yüzyıl Felsefesi - 3",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "MÖ 6. Yüzyıl - MS 2. Yüzyıl Felsefesi - 4",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "MS 2. Yüzyıl – MS 15. Yüzyıl Felsefesi - 1",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "MS 2. Yüzyıl – MS 15. Yüzyıl Felsefesi - 2",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "MS 2. Yüzyıl – MS 15. Yüzyıl Felsefesi - 3",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "15. Yüzyıl – 17. Yüzyıl Felsefesi - 1",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "15. Yüzyıl – 17. Yüzyıl Felsefesi - 2",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "15. Yüzyıl – 17. Yüzyıl Felsefesi - 3",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "18. Yüzyıl - 19. Yüzyıl Felsefesi - 1",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "18. Yüzyıl - 19. Yüzyıl Felsefesi - 2",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "18. Yüzyıl - 19. Yüzyıl Felsefesi - 3",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "20. Yüzyıl Felsefesi - 1",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "20. Yüzyıl Felsefesi - 2",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "20. Yüzyıl Felsefesi - 3",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/felsefe2.png",
+        "jsonadı": "felsefe",
+       "sinifadi": "onbir",
+        "testNo":"test16"
+    }
+   
+]

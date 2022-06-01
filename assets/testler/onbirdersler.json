@@ -1,0 +1,93 @@
+[
+    {
+        "dersadi": "Türk Dili ve Edebiyatı",
+        "dersadiResim": "assets/dersiconbirları/edebiyat4.png",
+        "jsonbiradı": "edebiyat",
+        "testListesiYolu": "onbir"
+    },
+    {
+        "dersadi": "Matematik(Temel Düzey)",
+        "dersadiResim": "assets/dersiconikiları/matematik2.png",
+        "jsonikiadı": "matematik",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Matematik(İleri Düzey)",
+        "dersadiResim": "assets/dersiconikiları/matematik1.png",
+        "jsonikiadı": "matematik2",
+        "testListesiYolu": "oniki"
+
+    },
+
+    {
+        "dersadi": "Fizik",
+        "dersadiResim": "assets/dersiconbirları/atom2.png",
+        "jsonbiradı": "fizik",
+        "testListesiYolu": "onbir"
+
+    },
+    {
+        "dersadi": "Kimya",
+        "dersadiResim": "assets/dersiconbirları/kimyas2.png",
+        "jsonbiradı": "kimya",
+        "testListesiYolu": "onbir"
+
+    },
+    {
+        "dersadi": "Biyoloji",
+        "dersadiResim": "assets/dersiconbirları/bio.png",
+        "jsonbiradı": "biyoloji",
+        "testListesiYolu": "onbir"
+
+    },
+
+    {
+        "dersadi": "Tarih",
+        "dersadiResim": "assets/dersiconbirları/inkilap3.png",
+        "jsonbiradı": "tarih",
+        "testListesiYolu": "onbir"
+
+    },
+    {
+        "dersadi": "Coğrafya",
+        "dersadiResim": "assets/dersiconbirları/cog2.png",
+        "jsonbiradı": "cografya",
+        "testListesiYolu": "onbir"
+
+    },
+
+    {
+        "dersadi": "İngilizce",
+        "dersadiResim": "assets/dersiconbirları/ing1.png",
+        "jsonbiradı": "cografya",
+        "testListesiYolu": "onbir"
+
+    },    {
+        "dersadi": "Felsefe",
+        "dersadiResim": "assets/dersiconbirları/felsefe2.png",
+        "jsonbiradı": "mantık",
+        "testListesiYolu": "onbir"
+
+    },    {
+        "dersadi": "Psikoloji",
+        "dersadiResim": "assets/dersiconbirları/psiko1.png",
+        "jsonbiradı": "mantık",
+        "testListesiYolu": "onbir"
+
+    },
+    {
+        "dersadi": "Sosyoloji",
+        "dersadiResim": "assets/dersiconbirları/sociology.png",
+        "jsonbiradı": "mantık",
+        "testListesiYolu": "onbir"
+
+    },
+    {
+        "dersadi": "Din Kültürü ve Ahlak Bilgisi",
+        "dersadiResim": "assets/dersiconbirları/din1.png",
+        "jsonbiradı": "ingilizce",
+        "testListesiYolu": "onbir"
+
+    }
+]

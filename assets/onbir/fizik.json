@@ -1,0 +1,44 @@
+[
+  {
+  "konuadi":"Vektörler",
+  "filepath":"Vektörler"
+  },
+  {
+    "konuadi":"Bağıl Hareket",
+    "filepath":"Bağıl Hareket"
+  },
+  {
+    "konuadi":"Newton’un Hareket Yasaları",
+    "filepath":"Newton’un Hareket Yasaları"
+    },
+    {
+      "konuadi":"Bir Boyutta Sabit İvmeli Hareket",
+      "filepath":"Bir Boyutta Sabit İvmeli Hareket"
+      },
+      {
+        "konuadi":"İki Boyutta Hareket",
+        "filepath":"İki Boyutta Hareket"
+        },
+        {
+          "konuadi":"Enerji ve Hareket",
+          "filepath":"Enerji ve Hareket"
+          },
+          {
+            "konuadi":"İtme ve Çizgisel Momentum",
+            "filepath":"İtme ve Çizgisel Momentum"
+            },  {
+              "konuadi":"Tork",
+              "filepath":"Tork"
+             },  {
+               "konuadi":"Ağırlık Merkezi ve Kütle Merkezi",
+            "filepath":"Ağırlık Merkezi ve Kütle Merkezi"
+                },  {
+                  "konuadi":"Denge ve Denge Şartları",
+                  "filepath":"Denge ve Denge Şartları"
+                  },
+                  {
+                    "konuadi":"Basit Makineler",
+                    "filepath":"Basit Makineler"
+                    }
+
+]

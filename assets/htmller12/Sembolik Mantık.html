@@ -1,0 +1,46 @@
+
+<h1><span style="color: #ff0000">Sembolik Mantık</span></h1>
+
+<p>Çıkarımları sembolik bir dille denetlemek için geliştirilmiştir. Çıkarım, eldeki bilgilerden bir sonuç çıkarma işlemidir. Eldeki bilgilerden beklenen sonuçların çıkıp çıkmadığını araştırmaya denetleme denir.<br>
+Sembolik mantık günlük dildeki önermeleri semboller yardımıyla çok anlamlılığa ve belirsizliğe yer vermeden denetleyebilmeyi sağlar.</p>
+<h3><span style="color: #000080"><a name="1"></a>Önermeler Mantığı</span></h3>
+<h4><span style="color: #000080">Önermelerin Sembolleştirilmesi</span></h4>
+<p>Önermeler mantığında her bir yargı p, q, r… gibi sembollerle ifade edilir.</p>
+<p><strong>Örnek:</strong></p>
+<p><span style="text-decoration: underline">Dünya gezegendir</span>. <span style="text-decoration: underline">Dünya’nın şekli elipstir.</span><br>
+–&nbsp; &nbsp; &nbsp; &nbsp; p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;q</p>
+<p><span style="text-decoration: underline">Güneş yakıcıdır.</span><br>
+–&nbsp; &nbsp; &nbsp; &nbsp;r</p>
+<h4><span style="color: #000080">&nbsp;Önerme Eklemleri</span></h4>
+<p>~, ^, v , ⇒ , ⇔</p>
+<p><span style="text-decoration: underline">Dünya gezegen</span> <span style="text-decoration: underline">ise</span> <span style="text-decoration: underline">güneş yakıcıdır.</span> (p ⇒ r)<br>
+–&nbsp; &nbsp; &nbsp; p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⇒&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r</p>
+<p><span style="text-decoration: underline">Dünya gezegendir</span> <span style="text-decoration: underline">ve</span> <span style="text-decoration: underline">şekli elipstir</span>. (p ^ q)<br>
+–&nbsp; &nbsp; &nbsp; &nbsp;p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;^&nbsp; &nbsp; &nbsp;q</p>
+<p><span style="text-decoration: underline">Ay, ışık kaynağı</span> <span style="text-decoration: underline">değildir.</span> (~p)<br>
+–&nbsp; &nbsp; &nbsp;p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~</p>
+<p>Bitkiler köklüdür. (p)</p>
+<h4><span style="color: #000080">Önerme Çeşitleri</span></h4>
+<p><strong>Basit önerme:</strong> Bir tek yargısı olan önermeler basittir.</p>
+<p><span style="text-decoration: underline">Aristotales filozoftur.</span><br>
+–&nbsp; &nbsp; &nbsp; p<br>
+<span style="text-decoration: underline">Bazı çiçekler kokuludur.</span><br>
+–&nbsp; &nbsp; &nbsp; &nbsp;q</p>
+<p><strong>Bileşik önerme:</strong> Birden fazla yargısı olan önermeler bileşiktir.</p>
+<p><span style="text-decoration: underline">Aristotales filozoftur</span> veya <span style="text-decoration: underline">bilim adamıdır.</span> (p ∨ q)<br>
+–&nbsp; &nbsp; &nbsp; &nbsp; p&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;q</p>
+<p><span style="text-decoration: underline">Yağmur yağıyor</span> <span style="text-decoration: underline">ise</span> <span style="text-decoration: underline">hava bulutludur.</span> (r ⇒ s)<br>
+–&nbsp; &nbsp; &nbsp; &nbsp; r&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; s</p>
+<p>Not: İçinde önerme eklemi taşıyan önermeler de birden fazla yargı taşıdıklarından bileşiktirler.</p>
+<p><span style="text-decoration: underline">İstanbul başkent</span> <span style="text-decoration: underline">değildir</span> (~ p)<br>
+p (bileşen)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ~</p>
+<p><span style="text-decoration: underline">Kuşlar kanatlıdır</span> <span style="text-decoration: underline">ve</span> <span style="text-decoration: underline">iki ayaklıdır.</span> (q ^ r)<br>
+q (bileşen)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; r (bileşen)</p>
+<h4><span style="color: #000080">Ana Eklem – Ana Bileşen</span></h4>
+<p>Birden fazla bileşik önermeden oluşan önermelerde en son işleme katılan eklem, ana eklemdir. Ana eklemin karşıladığı önermeler de ana bileşendir.</p>
+<h3><span style="color: #000080"><a name="2"></a>Yüklemler Mantığı</span></h3>
+<p>İçinde “ (her), $ (bazı) gibi niceleyici geçen önermeler yüklemler mantığının konusunu oluşturur. Bu önermelere genel önerme denir. İçine niceleyici geçmeyen önermelere de tekil önerme denir.</p>
+<p>Yüklemler mantığında önermeler mantığından farklı olarak basit önermelerin iç yapıları da&nbsp; sembolleştirilebilmektedir.</p>
+<p><strong>Örnek </strong>&nbsp;“Bütün kuşlar kanatlıdır” önermesi önermeler mantığında p olarak sembolleştirilirken, yüklemler mantığında “xFx şeklinde sembolleştirilir. Bu ayrıntılı sembolleştirilmeden dolayı önermeler mantığında tutarlı olan bir önerme yüklemler mantığında tutarsız olabilmektedir.</p>
+<p>&nbsp;</p>
+</div>

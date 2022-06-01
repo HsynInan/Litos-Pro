@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Üstel Fonksiyon",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Logaritma Fonksiyonu",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Üstel, Logaritmik Denklemler ve Eşitsizlikler",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Diziler – 1",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Diziler – 2",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Trigonometri – 1",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Trigonometri – 2",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Trigonometri – 3",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Trigonometri – 4",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Analitik Düzlemde Temel Dönüşümler",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Limit",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Süreklilik",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Anlık Değişim Oranı ve Türev",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Türevin Uygulamaları - 1",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Türevin Uygulamaları",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Belirsiz İntegral - 1",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Belirsiz İntegral - 2",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Belirli İntegral – 1",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Belirli İntegral – 2",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Çemberin Analitik İncelenmesi",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/matematik2.png",
+        "jsonadı": "matematik2",
+       "sinifadi": "oniki",
+        "testNo":"test20"
+    }
+]

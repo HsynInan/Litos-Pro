@@ -1,0 +1,132 @@
+[
+    {
+        "KonuAdi": "Psikoloji Bilimini Tanıyalım - 1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Psikoloji Bilimini Tanıyalım - 2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Psikoloji Bilimini Tanıyalım - 3",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Psikolojinin Temel Süreçleri - 1",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Psikolojinin Temel Süreçleri - 2",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Psikolojinin Temel Süreçleri - 3",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Psikolojinin Temel Süreçleri - 4",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Psikolojinin Temel Süreçleri - 5",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Öğrenme, Bellek, Düşünme - 1",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Öğrenme, Bellek, Düşünme - 2",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Öğrenme, Bellek, Düşünme - 3",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Öğrenme, Bellek, Düşünme - 4",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Ruh Sağlığının Temelleri - 1",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Ruh Sağlığının Temelleri - 2",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Ruh Sağlığının Temelleri - 3",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Ruh Sağlığının Temelleri - 4",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/psiko1.png",
+        "jsonadı": "psikoloji",
+       "sinifadi": "onbir",
+        "testNo":"test16"
+    }
+   
+]

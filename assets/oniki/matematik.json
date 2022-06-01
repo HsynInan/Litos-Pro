@@ -1,0 +1,48 @@
+[
+    {
+      "konuadi":"Parabol",
+      "filepath":"Parabol"
+    },
+    {
+      "konuadi":"Türev",
+      "filepath":"TÜREV"
+    },
+
+    {
+      "konuadi":"Matris ve Determinant",
+      "filepath":"MATRİS ve DETERMİNANT"
+    },
+    {
+      "konuadi":"Seriler",
+      "filepath":"SERİLER"
+    },
+    {
+      "konuadi":"Limit ve Süreklilik",
+      "filepath":"Limit ve Süreklilik"
+    },
+    {
+      "konuadi":"İntegralin Uygulamaları",
+      "filepath":"İNTEGRALİN UYGULAMALARI"
+    },
+    {
+      "konuadi":"Analitik Düzlemde Temel Dönüşümler",
+      "filepath":"Analitik Düzlemde Temel Dönüşümler"
+    },
+    {
+      "konuadi":"Trigonometri-1",
+      "filepath":"Trigonometri-1"
+    },
+    {
+      "konuadi":"Trigonometri-2",
+      "filepath":"Trigonometri-2"
+    },
+    {
+      "konuadi":"Trigonometri-3",
+      "filepath":"Trigonometri-3"
+    },
+    {
+      "konuadi":"Trigonometri-4",
+      "filepath":"Trigonometri-4"
+    }
+
+]

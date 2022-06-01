@@ -1,0 +1,192 @@
+[
+    {
+        "KonuAdi": "Edebiyat - Tarih ve Din İlişkisi - Türk Edebiyatının Ana Dönemleri  Türkçenin Tarihî Gelişimi",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Yazım Kuralları ve Noktalama İşaretleri",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Hikâye - Halk Hikâyesi - Dede Korkut Hikâyeleri - Mesnevi",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Hikâye",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Fiilimsi",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "İslamiyet'in Kabulünden Önceki Türk Şiiri (Koşuk - Sagu)  Geçiş Dönemi Eserleri",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Halk Edebiyatı İlahi - Nefes - Koşma - Mâni - Türkü",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Divan Şiiri (Gazel - Kaside - Şarkı)",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "İsim Tamlaması",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Dünya Destanları - Türk Halk Edebiyatında Efsane - İslamiyetin Kabulünden Önceki Türk Edebiyatında Destan",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "İslamiyet’in Kabulünden Sonraki Dönem Destanları",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "1923-1980 Dönemi Türk Edebiyatında Yapma Destanlar",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Sıfat Tamlaması",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Tanzimat Edebiyatında Roman - Dünya Edebiyatında Roman",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Servetifünun Edebiyatı'nda Roman",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Millî Edebiyat Dönemi'nde Roman",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Cümle Çeşitleri",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Geleneksel  Modern Türk Tiyatrosu ve Dünya Edebiyatı Tiyatrosu",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Geleneksel  Modern Türk Tiyatrosu ve Dünya Edebiyatı TiyatrosU -2",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Servetifünun Dönemi Türk Edebiyatında Anı",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test20"
+    },
+    {
+        "KonuAdi": "Cumhuriyet Dönemi Türk Edebiyatında Anı",
+        "TestNo": "Test-21",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test21"
+    }, {
+        "KonuAdi": "Haber Metni - Güncel Gazete ve Dergi Haberleri - Genel Ağ Haberleri",
+        "TestNo": "Test-22",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test22"
+    }, {
+        "KonuAdi": "Gezi Yazısı - Divan Edebiyatında Gezi",
+        "TestNo": "Test-23",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test23"
+    }, {
+        "KonuAdi": "Gezi Yazısı - Cumhuriyet Edebiyatında Gez",
+        "TestNo": "Test-24",
+        "TestNoResim": "assets/dersiconları/edebiyat4.png",
+        "jsonadı": "edebiyat",
+       "sinifadi": "on",
+        "testNo":"test24"
+    }
+]

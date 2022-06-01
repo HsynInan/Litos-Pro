@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743861990143",
+    "project_id": "pro-litos",
+    "storage_bucket": "pro-litos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743861990143:android:4e5a97a69d0384a70c12ca",
+        "android_client_info": {
+          "package_name": "com.viennasoft.lisedersnotlari.ykstytayt.testsorulari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743861990143-f71dn9jr1isedfoer418n0oohvt63hp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG2oHioMQYWFNv4nlZYaK81mT8CUgztsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743861990143-f71dn9jr1isedfoer418n0oohvt63hp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

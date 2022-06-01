@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Biyoçeşitlilik",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Madde döngüleri ve Enerji Akışı",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Ekosistemlerin İşleyişi ve Su Ekosistemleri",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Nüfus Politikaları ve Türkiye’nin Nüfus Projeksiyonları",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Şehirlerin Fonksiyonel Özellikleri ve Etki Alanları",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Türkiye’deki Şehirlerin Fonksiyonel Özellikleri ve Kır Yerleşme Tipleri",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Doğal ve Beşeri Unsurların Üretim, Dağıtım ve Tüketim Üzerindeki Etkisi",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Doğal Kaynaklar",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Türkiye’de Uygulanan Ekonomi Politikaları ve Ekonominin Sektörel Dağılımı",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Türkiye’de Tarım",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Türkiye’de Hayvancılık",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Türkiye’de Madenler ve Enerji Kaynakları",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Türkiye’de Sanayi",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "İlk Kültür Merkezleri",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Kültür Bölgeleri ve Türk Kültürü",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Küresel Ticaret ile Hammadde, Üretim, Pazar İlişkisi",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Turizm Faaliyetlerinin Ülkelerarası Etkileşimde Rolü",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Ülkeleri Tanıyalım",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Bölgesel ve Kültürel Örgütler",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Doğal Kaynak Kullanımı ve Çevresel Etkileri",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "onbir",
+        "testNo":"test20"
+    }
+]

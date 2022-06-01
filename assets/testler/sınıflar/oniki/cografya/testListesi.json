@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Doğadaki Ekstrem Olaylar",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Doğal Sistemlerdeki Değişimlerin Geleceğe Etkisi",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Ekonomik Faaliyetlerin Sosyal ve Kültürel Etkileri",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Şehirleşme, Sanayi ve Göç İlişkisi",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Türkiye’deki Bölgesel Kalkınma Projeleri ve Bölge Sınıflandırılması",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Ulaşım Sistemleri ve Kalkınma",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Türkiye’de Ulaşım Sistemlerinin Gelişimi",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Dünya Ticaret Ağları ve Küresel Ekonomi",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Türkiye’de İç ve Dış Ticaret",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Türkiye’yi Sembolize Eden Doğal ve Kültürel Değerler",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Dünya Turizminde Türkiye’nin Yeri ve Turizm Politikaları",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Kıtaların, Okyanusların ve Ülkelerin Konumunun Etkileri",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Tarihsel Süreçte Türkiye’nin Jeopolitiği",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Gelişmişlik Seviyelerine Göre Ülkeler - 1",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Gelişmişlik Seviyelerine Göre Ülkeler - 2",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Doğal Kaynakların Bölgesel ve Küresel Etkisi",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Enerji Taşımacılığı",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Sıcak Çatışma Bölgeleri",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Doğanın İşleyişi ve Doğadaki Tehlikeler",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Doğal Mirasın Korunması ve Çevre Bilinci",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/cog2.png",
+        "jsonadı": "cografya",
+       "sinifadi": "oniki",
+        "testNo":"test20"
+    }
+]

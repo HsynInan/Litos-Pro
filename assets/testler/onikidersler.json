@@ -1,0 +1,79 @@
+[
+    {
+        "dersadi": "Türk Dili ve Edebiyatı",
+        "dersadiResim": "assets/dersiconikiları/edebiyat4.png",
+        "jsonikiadı": "edebiyat",
+        "testListesiYolu": "oniki"
+    },
+    {
+        "dersadi": "Matematik(Temel Düzey)",
+        "dersadiResim": "assets/dersiconikiları/matematik2.png",
+        "jsonikiadı": "matematik",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Matematik(İleri Düzey)",
+        "dersadiResim": "assets/dersiconikiları/matematik1.png",
+        "jsonikiadı": "matematik2",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Fizik",
+        "dersadiResim": "assets/dersiconikiları/atom2.png",
+        "jsonikiadı": "fizik",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Kimya",
+        "dersadiResim": "assets/dersiconikiları/kimyas2.png",
+        "jsonikiadı": "kimya",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Biyoloji",
+        "dersadiResim": "assets/dersiconikiları/bio.png",
+        "jsonikiadı": "biyoloji",
+        "testListesiYolu": "oniki"
+
+    },
+
+    {
+        "dersadi": "T.C. İnkılap Tarihi ve Atatürkçülük",
+        "dersadiResim": "assets/dersiconikiları/inkilap3.png",
+        "jsonikiadı": "tarih",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Coğrafya",
+        "dersadiResim": "assets/dersiconikiları/cog2.png",
+        "jsonikiadı": "cografya",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Mantık",
+        "dersadiResim": "assets/dersiconikiları/mantık1.png",
+        "jsonikiadı": "mantık",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "İngilizce",
+        "dersadiResim": "assets/dersiconikiları/ing1.png",
+        "jsonikiadı": "cografya",
+        "testListesiYolu": "oniki"
+
+    },
+    {
+        "dersadi": "Din Kültürü ve Ahlak Bilgisi",
+        "dersadiResim": "assets/dersiconikiları/din1.png",
+        "jsonikiadı": "ingilizce",
+        "testListesiYolu": "oniki"
+
+    }
+]

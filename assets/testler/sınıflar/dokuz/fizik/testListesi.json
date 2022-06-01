@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Fizik Bilimine Giriş -1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Fizik Bilimine Giriş -2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Madde ve Özellikleri - 1",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Madde ve Özellikleri - 2",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Madde ve Özellikleri - 3",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Hareket ve Kuvvet - 1",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Hareket ve Kuvvet - 2",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Hareket ve Kuvvet - 3",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Hareket ve Kuvvet - 4",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Hareket ve Kuvvet - 5",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Enerji - 1",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Enerji - 2",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Enerji - 3",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Enerji - 4",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Isı ve Sıcaklık - 1",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Isı ve Sıcaklık - 2",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Isı ve Sıcaklık - 3",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Isı ve Sıcaklık - 4",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Elektostatik - 1",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Elektostatik - 2",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "dokuz",
+        "testNo":"test20"
+    }
+]

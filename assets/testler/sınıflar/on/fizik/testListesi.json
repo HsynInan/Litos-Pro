@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 3",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 4",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 5",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Elektrik ve Manyetizma – 6",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Basınç ve Kaldırma Kuvveti – 1",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Basınç ve Kaldırma Kuvveti – 2",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Basınç ve Kaldırma Kuvveti – 3",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Basınç ve Kaldırma Kuvveti – 4",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Dalgalar – 1",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Dalgalar – 2",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Dalgalar – 3",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Optik - 1",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Optik - 2",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Optik - 3",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Optik - 4",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Optik - 5",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Optik - 6",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Optik - 7",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/atom2.png",
+        "jsonadı": "fizik",
+       "sinifadi": "on",
+        "testNo":"test20"
+    }
+]

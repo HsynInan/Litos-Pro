@@ -1,0 +1,163 @@
+[
+    {
+        "KonuAdi": "Modern Atom Teorisi - 1",
+        "TestNo": "Test-1",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test1"
+       
+    },
+    {
+        "KonuAdi": "Modern Atom Teorisi - 2",
+        "TestNo": "Test-2",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test2"
+    },
+    {
+        "KonuAdi": "Modern Atom Teorisi - 3",
+        "TestNo": "Test-3",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test3"
+    },
+    {
+        "KonuAdi": "Modern Atom Teorisi - 4",
+        "TestNo": "Test-4",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test4"
+    },
+    {
+        "KonuAdi": "Gazlar - 1",
+        "TestNo": "Test-5",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test5"
+    },
+    {
+        "KonuAdi": "Gazlar - 2",
+        "TestNo": "Test-6",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test6"
+    },
+    {
+        "KonuAdi": "Gazlar - 3",
+        "TestNo": "Test-7",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test7"
+    },
+    {
+        "KonuAdi": "Gazlar - 4",
+        "TestNo": "Test-8",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test8"
+    },
+    {
+        "KonuAdi": "Sıvı Çözeltiler ve Çözünürlük - 1",
+        "TestNo": "Test-9",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test9"
+    },
+    {
+        "KonuAdi": "Sıvı Çözeltiler ve Çözünürlük - 2",
+        "TestNo": "Test-10",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test10"
+    },
+    {
+        "KonuAdi": "Sıvı Çözeltiler ve Çözünürlük - 3",
+        "TestNo": "Test-11",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test11"
+    },
+    {
+        "KonuAdi": "Kimyasal Tepkimelerde Enerji - 1",
+        "TestNo": "Test-12",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test12"
+    },
+    {
+        "KonuAdi": "Kimyasal Tepkimelerde Enerji - 2",
+        "TestNo": "Test-13",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test13"
+    },
+    {
+        "KonuAdi": "Kimyasal Tepkimelerde Hız - 1",
+        "TestNo": "Test-14",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test14"
+    },
+    {
+        "KonuAdi": "Kimyasal Tepkimelerde Hız - 2",
+        "TestNo": "Test-15",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test15"
+    },
+    {
+        "KonuAdi": "Kimyasal Denge - 1",
+        "TestNo": "Test-16",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test16"
+    },
+    {
+        "KonuAdi": "Kimyasal Denge - 2",
+        "TestNo": "Test-17",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test17"
+    },
+    {
+        "KonuAdi": "Kimyasal Denge - 3",
+        "TestNo": "Test-18",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test18"
+    },
+    {
+        "KonuAdi": "Kimyasal Denge - 4",
+        "TestNo": "Test-19",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test19"
+    },
+    {
+        "KonuAdi": "Kimyasal Denge - 5",
+        "TestNo": "Test-20",
+        "TestNoResim": "assets/dersiconları/kimyas2.png",
+        "jsonadı": "kimya",
+       "sinifadi": "onbir",
+        "testNo":"test20"
+    }
+]
